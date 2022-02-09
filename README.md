@@ -35,3 +35,13 @@ Advanced lecture for East B November 22, 2021 cohort at Lighthouse Labs!
 - `php -a` Opens an interactive shell, great for quick tests!
 - `php -r "[your test script]"` Good for quick one-line tests.
 - `php -S [address]:[port]` Accessible local test server! (Not for production.)
+
+## Data-Types in PHP
+- String: '', ""
+- Float/Double: 3.14
+- Integer: 3
+- Boolean: true/false, TRUE/FALSE
+- Object: new stdClass()
+- Array: array(), []
+- null/NULL
+- Resource
