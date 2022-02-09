@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>My First PHP Web Page</h1>
+    <?php include 'templates/navigation.php'; ?>
     <p>
         5 - 3 is...
         <?php

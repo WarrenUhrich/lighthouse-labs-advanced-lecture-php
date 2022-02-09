@@ -7,6 +7,8 @@ For multi-line
 slash and asterisks!
 */
 
+include './templates/navigation.php';
+
 // Strings
 $myString = 'Hello,';
 $myS = 'test';
