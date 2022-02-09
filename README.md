@@ -1,4 +1,6 @@
 # Week 25 | Advanced Lecture: PHP Introduction
+* [GitHub Repository](https://github.com/WarrenUhrich/lighthouse-labs-advanced-lecture-php)
+* [Vimeo Video]()
 
 ## What is PHP?
 * Interpreted programming language
