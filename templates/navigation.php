@@ -16,5 +16,10 @@
                 Calculator
             </a>
         </li>
+        <li>
+            <a href="/array-loop.php">
+                Array Loop
+            </a>
+        </li>
     </ul>
 </nav>
