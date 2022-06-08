@@ -4,14 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Example</title>
+    <title>About Page</title>
 </head>
 <body>
-    <h1>PHP Example</h1>
+    <h1>About Page</h1>
     <?php include './templates/navigation.php'; ?>
     <p>
-        5 + 5 =
-        <?php echo 5 + 5; ?>
+        All about PHP!
+        <a href="https://php.net">
+            Visit the official website!
+        </a>
     </p>
 
 <?php include './templates/footer.php'; ?>
