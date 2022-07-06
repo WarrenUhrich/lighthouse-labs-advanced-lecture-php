@@ -49,3 +49,15 @@ https://www.php.net/manual/en/install.php
 * `php -r "echo 'Hello, World';"` Run string as PHP.
 * `php -a` Interactive shell.
 * `php [path/to/file.ext]` Run the file in PHP.
+* `php -S [address]:[port]`
+
+## Data-Types
+
+* Objects
+* Boolean
+* Integer
+* Float / Double
+* String
+* Array
+* Null
+* Resource
