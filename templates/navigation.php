@@ -10,5 +10,8 @@
         <li>
             <a href="/calculator.php">Calculator</a>
         </li>
+        <li>
+            <a href="/ghibli-movies.php">Ghibli Movies</a>
+        </li>
     </ul>
 </nav>
