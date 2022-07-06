@@ -81,6 +81,6 @@ The rest are web pages. For best results, clone this project, `cd` into its dire
 
 ## Resources
 
-* (Official PHP Documentation)[https://PHP.net/]
-* (PHP on W3Schools)[https://www.w3schools.com/php/default.asp]
-* (Programming PHP from O'Reilly)[https://www.oreilly.com/library/view/programming-php-4th/9781492054122/]
+* [Official PHP Documentation](https://PHP.net/)
+* [PHP on W3Schools](https://www.w3schools.com/php/default.asp)
+* [Programming PHP from O'Reilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
