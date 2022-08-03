@@ -62,3 +62,14 @@ https://www.w3schools.com/php/php_compiler.asp
 * `php -r "[PHP Code here!]"` This is great for quick one-line experiments.
 * `php [path/to/file.php]` Executes the target file.
 * `php -S localhost:3000` Serves the current directory as a web server.
+
+## Data-Types
+
+* Objects
+* Strings
+* Integers
+* Floats
+* Arrays
+* Booleans
+* Null
+* Resource
