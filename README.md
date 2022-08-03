@@ -41,3 +41,24 @@
 * Great performance (gives other interpreted languages a run for their money)
 * MVC Framework: Laravel
 * Package Manager: Composer
+
+## How do I install/run PHP?
+
+Check for the version you have installed first: `php --version`
+
+If isn't already installed, consider:
+
+* Windows: `choco install php`
+* Linux: `sudo apt install php`
+* Macintosh: `brew install php`
+
+To run quick easy tests online, try:
+https://www.w3schools.com/php/php_compiler.asp
+
+## Common CLI Options
+
+* `php --version` Check which version we're using.
+* `php -a` Interactive shell!
+* `php -r "[PHP Code here!]"` This is great for quick one-line experiments.
+* `php [path/to/file.php]` Executes the target file.
+* `php -S localhost:3000` Serves the current directory as a web server.
