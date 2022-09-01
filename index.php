@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home Page</title>
-</head>
-<body>
-    <h1>Home Page</h1>
+<?php
+    //$GLOBALS['title'] = 'Home Page';
+    $title = 'Home Page';
+    include './templates/header.php';
+?>
+    
     <h2>Data-Types</h2>
     <ul>
         <li>String</li>
@@ -95,5 +91,5 @@
             echo '</pre>';
         ?>
     </p>
-</body>
-</html>
+
+<?php include './templates/footer.php';
