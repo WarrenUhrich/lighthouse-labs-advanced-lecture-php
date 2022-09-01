@@ -1,10 +1,10 @@
 # Lighthouse Labs | Advanced Lecture: PHP Introduction
 
-* [ ] What/why is PHP?
-* [ ] Using PHP
-* [ ] Data-Types
-* [ ] Include
-* [ ] Forms
+* [X] What/why is PHP?
+* [X] Using PHP
+* [X] Data-Types
+* [X] Include
+* [X] Forms
 
 ## What is PHP?
 
