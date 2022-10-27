@@ -1,6 +1,6 @@
 # Lighthouse Labs | Advanced Lecture: PHP Introduction
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-advanced-lecture-php/blob/2022.10.26-web-ft-east-22aug2022/README.md) | [Vimeo Video Recording](https://vimeo.com/764406383/b06d2fe995)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-advanced-lecture-php/blob/2022.10.26-web-ft-east-22aug2022/README.md) | [Vimeo Video Recording (WARNING: Sound Issue)](https://vimeo.com/764406383/b06d2fe995) | [Older Vimeo Video w/out Sound Issue](https://vimeo.com/745534195/7bc5d25895)
 
 * [X] What/why is PHP?
 * [X] Using PHP
