@@ -1,5 +1,7 @@
 # Lighthouse Labs | Advanced Lecture: PHP Introduction
 
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-advanced-lecture-php/tree/2023.09.12-web-flex-day-20march2023) | [Vimeo Video Recording](https://vimeo.com/863721186/ec41d143fc?share=copy)
+
 * [X] What is PHP?
 * [X] Why NOT use PHP - I've heard bad things...
 * [X] Why USE PHP then?
