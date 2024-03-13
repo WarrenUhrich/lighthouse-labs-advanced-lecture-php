@@ -2,11 +2,11 @@
 
 * [X] What is PHP?
 * [X] Why NOT use PHP - I've heard bad things...
-* [ ] Why USE PHP then?
-* [ ] Installing PHP
-* [ ] Some Common Command-Line Options
-* [ ] Data-Types
-* [ ] Using PHP (Some Examples)
+* [X] Why USE PHP then?
+* [X] Installing PHP
+* [X] Some Common Command-Line Options
+* [X] Data-Types
+* [X] Using PHP (Some Examples)
 
 ## What have you heard about PHP?
 
@@ -68,4 +68,6 @@ Online compiler: https://www.w3schools.com/php/php_compiler.asp
 * `php -a` This opens an interactive shell.
 * `php -r "[your test script]"` Run a one-liner!
 * `php -S [address]:[port]` Host a local test server!
-* `php -S [address]:[port] -t [path/to/public/dir]` Host a local test server!
+* `php -S [address]:[port] -t [path/to/public/dir]` Choose folder to expose!
+
+
